@@ -1,0 +1,36 @@
+body{
+    background-color: rgba(5, 5, 5, 0.699);
+}
+input{
+    background-color:rgba(224, 214, 214, 0.911);
+    width: 200;
+    height:30 
+}
+a input{
+    height: 40;
+    background-color: rgb(0, 38, 255);
+    color: rgb(255, 255, 255);
+}
+form{
+ background-color: rgb(0, 0, 0);
+ width: 211;
+ padding: 45;
+ color: rgb(255, 255, 255)
+}
+img{
+    width:211 ;
+}
+hr{
+    height: 20;
+    background-color: black;
+}
+h1{
+
+}
+
+header{ 
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    height: 50px;
+    
+}
